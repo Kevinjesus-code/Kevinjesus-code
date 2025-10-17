@@ -7,8 +7,7 @@ Me gusta aprender constantemente y mantenerme al día con las últimas tecnolog�
 
 ### 🚀 Tecnologías y herramientas
 <div align="center">
-  
-  <!-- Lenguajes y frameworks -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
@@ -18,7 +17,9 @@ Me gusta aprender constantemente y mantenerme al día con las últimas tecnolog�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" style="background-color:white; border-radius:8px; padding:5px;" />
+
 </div>
 
 ---
@@ -26,7 +27,3 @@ Me gusta aprender constantemente y mantenerme al día con las últimas tecnolog�
 ### 📫 Contacto
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevinjesus-code)  
 - 📧 **kevinjesusmoresandoval@gmail.com**
-
----
-
-  
